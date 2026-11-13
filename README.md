@@ -25,12 +25,15 @@ The primary objectives of this project are to:
 
 ## Dashboard Preview
 
-| Executive Overview | Sales Analysis | Profit Analysis |
-|---|---|---|
-| ![Executive Overview](<img width="1453" height="808" alt="Annotation 2026-10-27 133120" src="https://github.com/user-attachments/assets/2528adf9-af4b-452c-aedd-06674827f67d" />
-) | ![Sales Analysis](<img width="1457" height="820" alt="Annotation 2026-10-27 144220" src="https://github.com/user-attachments/assets/52c81d9d-01f1-43f0-b4e0-572ba2353861" />
-) | ![Profit Analysis](<img width="1453" height="822" alt="Annotation 2026-10-27 144254" src="https://github.com/user-attachments/assets/f08ccb6f-56cb-4ac0-a1b9-cf783ae15b58" />
-) |
+## Executive Overview 
+Executive Overview<img width="1453" height="808" alt="Annotation 2026-10-27 133120" src="https://github.com/user-attachments/assets/2528adf9-af4b-452c-aedd-06674827f67d" />
+
+## Sales Analysis
+Sales Analysis<img width="1457" height="820" alt="Annotation 2026-10-27 144220" src="https://github.com/user-attachments/assets/52c81d9d-01f1-43f0-b4e0-572ba2353861" />
+
+## Profit Analysis
+Profit Analysis<img width="1453" height="822" alt="Annotation 2026-10-27 144254" src="https://github.com/user-attachments/assets/f08ccb6f-56cb-4ac0-a1b9-cf783ae15b58" />
+
 
 ## Dashboard Structure
 
